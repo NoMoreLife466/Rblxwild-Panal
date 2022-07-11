@@ -1,5 +1,3 @@
-#Auto Rain
-
 How To Use Auto Rain
 
 1- Extract The .Zip
