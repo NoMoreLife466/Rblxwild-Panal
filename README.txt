@@ -1,1 +1,5 @@
-Open 1.png and 2.png to know how to use it
+> **RBLXWILD PANAL**
+> 1- Crash Predictor
+> 2- Auto Join Rain
+> 3- Rain Notifier
+> 4-
