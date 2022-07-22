@@ -1,4 +1,4 @@
-# RBLXWILD PANAL V0.1
+#[RBLXWILD PANAL V0.1](https://im.ge/i/FsN5KG)
 ## You Don't Have To Login In
 ### Easy Menu To Use
 
@@ -23,4 +23,4 @@
 1- Boost Normal Mode Luck 29%
 2- Boost Crazy Mode Luck 13%
 
-[Image](https://im.ge/i/FsN5KG)
+[Image]
