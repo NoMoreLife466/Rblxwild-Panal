@@ -1,4 +1,4 @@
-#[RBLXWILD PANAL V0.1](https://im.ge/i/FsN5KG)
+[#RBLXWILD PANAL V0.1](https://im.ge/i/FsN5KG)
 ## You Don't Have To Login In
 ### Easy Menu To Use
 
