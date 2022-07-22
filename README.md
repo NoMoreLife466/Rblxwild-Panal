@@ -24,3 +24,4 @@
 2- Boost Crazy Mode Luck 13%
 
 [Image](https://im.ge/i/FsN5KG](https://www.linkpicture.com/q/image-29.jpg)
+This is an example [Image](https://pages.github.com/).
