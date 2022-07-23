@@ -23,4 +23,4 @@
 1- Boost Normal Mode Luck 29%
 2- Boost Crazy Mode Luck 13%
 
-https://discord.gg/gXb8aysU
+[Image](https://www.linkpicture.com/q/image-29.jpg)
